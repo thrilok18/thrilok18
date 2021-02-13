@@ -45,8 +45,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Support:</h3>
 
+<p><a href="https://www.buymeacoffee.com/thrilokcodes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=thrilokcodes&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a></a></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thrilok18&show_icons=true&theme=dark&locale=en" alt="thrilok18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thrilok18&theme=dark" alt="thrilok18" /></p>
 
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="thrilokcodes" data-description="Support me on Buy me a coffee!" data-message="" data-color="" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+

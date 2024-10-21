@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!---
 <h1 align="center">Hi 👋, I'm Thrilok</h1>
 <h3 align="center">I Code?</h3>
 
@@ -50,4 +51,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thrilok18&theme=dark" alt="thrilok18" /></p>
 
-
+--->
